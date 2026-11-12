@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "frappe-payments-mcp"
-version = "0.1.0"
+version = "0.1.1"
 description = "Payment gateway abstractions (Stripe, PayPal, local gateways)."
 readme = "README.md"
 requires-python = ">=3.10"
